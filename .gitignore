@@ -1,0 +1,8 @@
+.env
+node_modules
+server.cert
+server.key
+nodemon.json
+access.log
+error-playground.js
+data
