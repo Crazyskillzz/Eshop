@@ -6,3 +6,4 @@ nodemon.json
 access.log
 error-playground.js
 data
+images/*
